@@ -43,7 +43,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
-![](./exp1.png)
+![](./exp2.1.png)
 
 
 ## RESULT
